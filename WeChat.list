@@ -1,0 +1,10 @@
+# 微信相关直连域名规则列表
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,wx.qlogo.cn
+DOMAIN-SUFFIX,mmbiz.qpic.cn
+DOMAIN-SUFFIX,mmsns.qpic.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,mmgcdn.tencent.com
+DOMAIN-SUFFIX,wechatapp.com
